@@ -1,3 +1,4 @@
+// JavaScript XML (Extensible Markup Language)
 import React, { useState } from 'react';
 
 const JSXDemo = () => { // With React Hooks
